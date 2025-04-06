@@ -22,9 +22,9 @@ This laboratory provides hands-on experience with Microsoft Defender for Endpoin
 3. Browse to the **Onboarding Page**:
    - Navigate to Settings → Endpoints → Device Management → Onboarding
    - Note: Since you aren't an admin, the onboarding packages have been pre-staged for you:
-     - Windows 10/11 MDE Package
-     - Windows Server 2019/2022 Package
-     - Linux (Ubuntu) Server (Python) Package
+     - [Windows 10/11 MDE Package](https://sacyberrange00.blob.core.windows.net/mde-agents/Windows-10-and-11-GatewayWindowsDefenderATPOnboardingPackage.zip)
+     - [Windows Server 2019/2022 Package](https://sacyberrange00.blob.core.windows.net/mde-agents/Windows-Server-2019-and-2022-GatewayWindowsDefenderATPOnboardingPackage.zip)
+     - [Linux (Ubuntu) Server (Python) Package](https://sacyberrange00.blob.core.windows.net/mde-agents/Linux-Server-GatewayWindowsDefenderATPOnboardingPackage.zip)
 4. Log into your virtual machine and download the appropriate MDE package
    - Right-click the package and select "Run as Administrator"
 5. Verify successful onboarding:
